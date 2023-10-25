@@ -1,3 +1,27 @@
 
 create black-scholes model
 do stuff
+
+Project description: We will be creating python implementation for black-scholes
+Due : 11/ 1 / 2023 (this date is subject to change)
+
+
+++ Projct steps +++
++ add Data using intrinio for first attempt
++ create basic python implementation for black-scholes
++ ensure we test implementation with usage of either thinkerswim API or blackrock API
+
+
+---- Other neccassary evils -----
++ Research Black-scholes to ensure we know how to create the algorithm
++ read API documentation and ensure data is being used correctly
+
+
+Notes: We will be reinventing the wheel this time around for learning purposes.
+
+
+
+Akul
+Zishan 
+Zanir
+
