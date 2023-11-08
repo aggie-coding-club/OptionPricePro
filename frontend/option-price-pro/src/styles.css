@@ -1,0 +1,42 @@
+*{
+
+    box-sizing: border-box;
+}
+
+body{
+    margin:0;
+    height: 100vh;
+    width: 100vw;
+    background-color: black;
+    margin: 0rem;
+    overflow: hidden;
+
+
+}
+
+.nav{
+    background-color: #072b4a;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+#image-track > .image{
+
+    width: 40vmin;
+    height: 56vmin;
+    object-fit: cover;
+    object-position: center;
+
+}
+
+#image-track {
+
+    display: flex;
+    gap: 4vmin;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform:translate(0%,-50%)
+    
+}
